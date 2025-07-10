@@ -10,4 +10,4 @@
 
 这些平台提供丰富的91香蕉系列优质资源，分类清晰，更新迅速，用户能轻松查找喜欢的影片。每个视频页面都含有详细的影片信息，包括时长、主演、清晰度等，支持高清播放，并根据网络环境自动优化画质，确保流畅观看体验。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/sang20250710/sang14 ）</span>
